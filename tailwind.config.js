@@ -14,6 +14,9 @@ export default {
       colors: {
         'biru-gelap': '#070148',
         'ungu': '#6D28D9'
+      },
+      backgroundImage: {
+        'jumbotron' : "url('/img/img-jumbotron.png')"
       }
     },
   },
